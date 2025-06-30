@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+virtual_env/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
+*.log
